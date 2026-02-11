@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I’m Alpinist Deveolper 👋  
-### Full Stack Developer | React • Next.js • TypeScript • Node
+### Full Stack Developer | React • Next.js • TypeScript • Node • Flutter • AI
 
 Building scalable, modern web applications with clean architecture and strong UX.
 
