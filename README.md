@@ -35,7 +35,7 @@ Flutter · Dart · Cross-platform Development
 
 ⚙ Backend
 
-Node.js · Express · REST APIs
+Python · Node.js · Express · REST APIs · Django
 
 🗄 Database
 
